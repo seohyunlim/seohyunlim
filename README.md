@@ -17,9 +17,6 @@
 안녕하세요! 10기 디자이너 임서현입니다.
 사용자의 마음을 사로잡는 디자인을 만들고,  
 작은 디테일까지 정성을 담는 디자이너가 되고 싶어요. ✨
-</p>
-
-<p align="center">
 ### 🎨 Tools 
 * ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 * ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
