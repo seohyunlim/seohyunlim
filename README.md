@@ -28,6 +28,6 @@
 </div>
 
 <p align="center">
-### 📫 
+## 📫 
 - ✉️ Email: seohyunlim@gmail.com
 </p>
