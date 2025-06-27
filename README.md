@@ -16,8 +16,11 @@
 작은 디테일까지 정성을 담는 디자이너가 되고 싶어요. ✨
 
 
-## 🎨 Tools I Use
-- Figma / Illustrator / Photoshop
+### 🎨 Tools I Use
+
+* ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+* ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
+* ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
 
 ## 📫 Let's connect!
 - ✉️ Email: seohyunlim@gmail.com
