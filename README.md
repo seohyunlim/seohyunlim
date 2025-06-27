@@ -19,7 +19,7 @@
 
 <div align="center">
 
-### 🎨 Tools
+## 🎨 Tools
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)  
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)  
