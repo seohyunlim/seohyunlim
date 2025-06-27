@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-🐻UXUI%20Designer-facc15?style=flat-square&logo=figma&logoColor=00000"/>
+  <img src="https://img.shields.io/badge/Role-🐻UXUI%20Designer-facc15?style=flat-square&logo=figma&logoColor=000000"/>
   <img src="https://img.shields.io/badge/Love-Warm%20Colors-fde68a?style=flat-square&logoColor=D9686A"/>
   <img src="https://img.shields.io/badge/I%20love-Design%20%26%20-eab308?style=flat-square"/>
 </p>
