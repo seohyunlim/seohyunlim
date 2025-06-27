@@ -18,7 +18,6 @@
 
 ## 🎨 Tools I Use
 - Figma / Illustrator / Photoshop
-- 
 
 ## 📫 Let's connect!
 - ✉️ Email: seohyunlim@gmail.com
