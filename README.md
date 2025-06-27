@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=fde68a&text=Lim%20Seohyun%0A%20UXUI%20Designer&fontColor=5c4033&fontSize=40&height=200)
+![header](https://capsule-render.vercel.app/api?type=soft&color=fde68a&text=Lim%20Seohyun%0A%20Designer&fontColor=5c4033&fontSize=40&height=200)
 
 
 <p align="center">
